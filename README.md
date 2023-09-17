@@ -1,5 +1,5 @@
 # Solana Arbitrage Bot
-
+[](https://github.com/gemhunterheh/solana-arbitrage-bot/blob/main/screenshot%20(1).png?raw=true)
 ## Overview
 
 The Solana Arbitrage Bot is an automated trading tool designed to identify and execute arbitrage opportunities within the Solana ecosystem. It leverages Solana's fast transaction speeds and low fees to profit from price discrepancies between different decentralized exchanges (DEXs) or liquidity pools.
